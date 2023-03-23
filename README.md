@@ -1,9 +1,11 @@
-This is a to-do list app, using react function component
-The + (plus) icon will add a todo to the todo list
-Clicking on the edit button will edit the todo
-Clicking the delete button will delete the todo
-Uses local storage so as to not lose the data after refreshing the page
-Click on CHECKLIST button to remove all todos
+# This is a to-do list app, using react function component
+1. The + (plus) icon will add a todo to the todo list
+2. Clicking on the edit button will edit the todo
+3. Clicking the delete button will delete the todo
+4. Uses local storage so as to not lose the data after refreshing the page
+5. Clicking on CHECKLIST button will remove all todos
+6. This project uses UseState hook extensively
+7. This app effectively implements all CRUD functionalities: Create, Read, Update and Delete.
 
 
 # Getting Started with Create React App
