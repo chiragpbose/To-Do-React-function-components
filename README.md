@@ -1,3 +1,11 @@
+This is a to-do list app, using react function component
+The + (plus) icon will add a todo to the todo list
+Clicking on the edit button will edit the todo
+Clicking the delete button will delete the todo
+Uses local storage so as to not lose the data after refreshing the page
+Click on CHECKLIST button to remove all todos
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
